@@ -5,3 +5,5 @@
 *.pid
 twistd.*
 twistd.*
+*.jpg
+*.png
